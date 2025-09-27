@@ -61,12 +61,12 @@ python single_case_trainer.py
 
 ### 1. PINN Training Loss Curve
 
-![PINN Training Loss](PINNn2_loss_plot.png)
+![PINN Training Loss](PINNn1_loss_plot.png)
 _This plot shows the training loss of the Physics-Informed Neural Network as it learns to solve the Lane-Emden equation for $n=1$. While the overall trend is downward, the presence of spikes in the loss curve suggests that the learning rate may be too high. Reducing the learning rate could lead to smoother convergence and potentially better results._
 
 ### 2. PINN Solution vs Analytical Solution
 
-![PINN Solution vs Analytical](results_plot_n2.png)
+![PINN Solution](results_plot_n1.png)
 _This plot shows the final result of the PINN for $n=1$._
 
 ### 3. PINN vs Analytical Solution (Comparison Script)
