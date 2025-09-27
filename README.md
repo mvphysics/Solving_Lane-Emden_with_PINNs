@@ -30,7 +30,7 @@ Solving_Lane-Emden_with_PINNs/
 ### 1. Clone the Repository
 
 ```powershell
-git clone <repository-url>
+git clone https://github.com/mvphysics/Solving_Lane-Emden_with_PINNs.git
 cd Solving_Lane-Emden_with_PINNs
 ```
 
