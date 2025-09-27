@@ -1,0 +1,1 @@
+# Solving_Lane-Emden_with_PINNs
